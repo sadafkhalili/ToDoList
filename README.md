@@ -1,13 +1,13 @@
-·  افزودن وظایف جدید با عنوان، توضیحات و سطح اولویت (1-5)
-· نمایش لیست وظایف (انجام شده و در حال انتظار)
-·  علامت‌گذاری وظایف به عنوان انجام شده
-·  جستجو در بین وظایف بر اساس کلمات کلیدی
-· حذف وظایف تک‌تک یا پاکسازی کلی کارهای انجام شده
-·  ذخیره‌سازی خودکار داده‌ها در فایل متنی (txt)
-·  ثبت خودکار تاریخ و ساعت ایجاد هر وظیفه
+· Adding new tasks with title, description, and priority level (1-5)
+· Displaying task list (completed and pending)
+· Marking tasks as completed
+· Searching tasks based on keywords
+· Deleting individual tasks or clearing all completed tasks
+· Automatically saving data to a text file (txt)
+· Automatically recording the date and time of each task's creation
 
-نمادها:
+Symbols:
 
-· ! نشان‌دهنده سطح اولویت (تعداد بیشتر = اولویت بالاتر)
-· DONE وظایف تکمیل شده
-· PENDING
+· ! indicates priority level (more symbols = higher priority)
+· DONE for completed tasks
+· PENDING for pending tasks
